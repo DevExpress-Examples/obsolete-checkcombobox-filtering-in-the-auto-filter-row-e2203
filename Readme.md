@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DateTemplate.cs](./CS/WebSite/App_Code/DateTemplate.cs) (VB: [DateTemplate.vb](./VB/WebSite/App_Code/DateTemplate.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - CheckComboBox filtering in the Auto Filter Row
