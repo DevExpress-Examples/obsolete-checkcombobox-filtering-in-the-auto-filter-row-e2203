@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - CheckComboBox filtering in the Auto Filter Row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2203)**
+<!-- run online end -->
 
 
 <p><strong>UPDATED #2:</strong><br><br>Please note that <strong>starting with version v13.1</strong>, ASPxGridView provides the column's <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebGridViewColumn_FilterTemplatetopic">FilterTemplate</a> that allows using ASPxGridLookup as a multi-select AutoFilterRow editor. So, if you need to accomplish this task using the <strong>AutoFilterRow</strong> <a href="https://documentation.devexpress.com/#AspNet/CustomDocument3716">filter type</a> (i.e., not the built-in multi-select <strong>Header Filter</strong>), consider using the approach illustrated in the <a href="https://www.devexpress.com/Support/Center/p/E4521">E4521: ASPxGridView - How to change a default editor to ASPxGridLookup in FilterRow via FilterTemplate</a> example instead.<br><br><strong>UPDATED #1:</strong><br><br></p>
